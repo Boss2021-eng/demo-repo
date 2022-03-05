@@ -1,0 +1,9 @@
+There is difference between powershell and command prompt
+To download from github repository - git clone
+change directory - cd ***
+use hidden files from gitbash
+ls -la
+on visual studio code
+Get-ChildItem . -Force
+
+check status -- git status
